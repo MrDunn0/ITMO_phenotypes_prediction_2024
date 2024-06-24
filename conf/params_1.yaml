@@ -1,0 +1,5 @@
+input: /mnt/c/Users/PC/Desktop/work/skull/june/conf/ss_1.csv
+target_build: GRCh37
+liftover: true
+hg19_chain: /mnt/c/Users/PC/Desktop/work/skull/june/chains/hg19ToHg38.over.chain.gz
+hg38_chain: /mnt/c/Users/PC/Desktop/work/skull/june/chains/hg38ToHg19.over.chain.gz
